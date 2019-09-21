@@ -1,4 +1,7 @@
 # vudio.js
+
+## Archived, transferred to https://alex2wong.github.io/vudio/ for better version control in NPM
+
 ### 一个简单的音频数据可视化模块
 
 ![](https://upload-images.jianshu.io/upload_images/1950967-1eb6e07d93883fbb.gif?imageMogr2/auto-orient/strip)
