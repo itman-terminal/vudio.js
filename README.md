@@ -1,6 +1,6 @@
 # vudio.js
 
-## Archived, transferred to https://alex2wong.github.io/vudio/ for better version control in NPM
+## Archived, transferred to https://github.com/alex2wong/vudio for better version control in NPM
 
 ### 一个简单的音频数据可视化模块
 
