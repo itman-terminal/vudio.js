@@ -93,3 +93,7 @@ vudio.setOption({
 ```
 
 在线示例: http://margox.github.io/vudio.js/
+
+### Related VScode extension
+
+![VScode extension snapshot](https://user-images.githubusercontent.com/10528482/64496866-f1eca780-d2db-11e9-92e5-cc179758d035.gif)
