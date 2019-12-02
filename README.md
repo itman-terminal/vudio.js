@@ -4,11 +4,9 @@
 
 ### 一个简单的音频数据可视化模块
 
-![](https://upload-images.jianshu.io/upload_images/1950967-1eb6e07d93883fbb.gif?imageMogr2/auto-orient/strip)
-
 多種視覺效果:
 
-![多種視覺效果](https://github.com/alex2wong/vudio.js/blob/master/demo_src/snapshot.jpg?raw=true)
+![多種視覺效果](https://github.com/alex2wong/vudio/blob/master/demo_src/snapshot.jpg?raw=true)
 
 ------
 #### 概述：
@@ -20,7 +18,7 @@
 
 模块式引入
 ```bash
-# 使用npm安装此模块
+# 使用npm安装此模块，以下是原始仓库版本，fork增强版（圆圈效果）的请安装 npm i vudio --save 或者 yarn add vudio
 npm i vudio.js --save
 # 或者使用yarn安装此模块
 yarn add vudio.js
@@ -30,7 +28,7 @@ import Vudio from 'vudio.js'
 ```
 标签式引入
 ```html
-<script src="/path/to/vudio.js"></script>
+<script src="https://unpkg.com/vudio@2.0.5/umd/vudio.js"></script>
 ```
 实例化Vudio
 ```javascript
@@ -92,7 +90,7 @@ vudio.setOption({
 });
 ```
 
-在线示例: http://margox.github.io/vudio.js/
+在线示例: http://alex2wong.github.io/vudio/
 
 ### Related VScode extension
 
